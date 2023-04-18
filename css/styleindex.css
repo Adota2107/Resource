@@ -1,0 +1,65 @@
+.row-header{
+    margin-bottom: 50px;
+}
+.logo{
+    height: 70px;
+    object-fit: contain;
+    width: 100px;
+}
+
+.banner-mientay img{
+    width: 600px;
+}
+.banner-mientay{
+    text-align: center;
+}
+
+.right-side{
+    background-color: #bcf3f3;
+}
+.right-side .title{
+    border-bottom: 5px solid rgb(49, 171, 192);
+}
+.flex{
+    display: flex;
+    margin-bottom: 20px;
+}
+.img-circle{
+    width: 100px;
+    height: 100px;
+    margin-right: 20px;
+}
+.title{
+    color: orange;
+}
+.description{
+    font-size: 2rem;
+}
+.buffet{
+    padding: 15px;
+}
+.img-group{
+    display: flex;
+    width: 80%;
+    margin:  0 auto;
+}
+.img-group img{
+    display: inline;
+    width: 50%;
+}
+.family{
+    padding: 15px;
+}
+
+.family-img-group{
+    width: 80%;
+    margin: 0 auto;
+}
+.footer{
+    text-align: center;
+    color: white;
+    background-color: rgb(9, 114, 114);
+    padding-top: 9px;
+    padding-bottom: 7px;
+    margin-bottom: 10px;
+}
